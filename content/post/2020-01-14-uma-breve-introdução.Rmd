@@ -1,0 +1,45 @@
+---
+title: Uma breve introdução!
+author: Henrique Costa
+date: '2020-01-14'
+slug: uma-breve-introdução
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-14T15:17:35-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+Comecei este blog para escrever sobre a economia no mundo real, principalmente para estudantes e curiosos (assim como eu). A ideia que tenho sobre observar o mundo real sob a luz da ciência econômica, ou como pode ser observado o empirismo das teorias econômicas na conjectura do mundo real.
+
+O objetivo principal é destacar exemplos práticos de coisas sobre as quais é dito em palestras, jornais, aulas e rodas de conversas, e apontar para você a direção exata de onde tais coisas surgiram e para que servem e como compreende-las de uma forma clara, objetiva, concisa e o melhor de tudo “destemida”.
+
+Destemida porquê, muito do que se vê por ai sobre economia, por muitas vezes por não estarem a “luz” da ciência econômica, bem como não corrobora com a realidade, chegando a ser um puro“achismo” ou até um senso comum por completo. Assim de forma destemida, trazer a verdadeira face da ciência econômica e como ela pode ser observada no mundo real.
+
+‘Isso será fácil?’ Não mesmo, será como um desafio para mim discorrer em palavras sobre uma ciência tão incrível e uma das mais complexas existentes, na tentativa de expandir o conhecimento claro sobre tal. Isto é puramente para você ver como, onde e quando esses princípios econômicos são empregados (às vezes desconfortavelmente) na mídia, debates políticos, e assim por diante.
+
+Se você já tem ou já teve (mesmo que seja um leve) interesse sobre economia, então este blog deverá ser útil para você. Se você ainda não se deparou com a economia, e se for a primeira vez em que você viu/ouviu a palavra ‘ceteris paribus’ em uma frase, então este blog pode ajudá-lo a encontrar a relevância de se entender o mínimo possível sobre economia.
+
+Minha esperança é que essas postagens e discussões o levem a despertar e manter um interesse pela economia, e que os conhecimentos adquiridos aqui possam obter suas extensões na vida cotidiana. Eu posso não ter sucesso, mas eu vou morrer (em um sentido literário) tentando …
+
+
+Adaptado do [Original](https://medium.com/the-empirical-mode/uma-breve-introdu%C3%A7%C3%A3o-5ef88bde8498)
+
+
+{{% alert note %}}
+Ei! 👋, você achou meu trabalho útil? Considere me comprar um café ☕, clicando aqui 👇🏻 
+{{% /alert %}}
+
+<a href="https://www.buymeacoffee.com/hcostax" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+
+
+
