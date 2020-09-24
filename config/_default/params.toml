@@ -118,6 +118,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Entre em contato via Keybase", link = "https://keybase.io/hcostax"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+ 
   ]
 
 ############################
@@ -274,7 +275,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-156351636-1"
+  google_analytics = "UA-178934651-1"
   google_tag_manager = ""
 
 ############################
@@ -288,4 +289,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
