@@ -55,9 +55,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hcostax
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/hcostax
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/6259049914329971
