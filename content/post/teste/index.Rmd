@@ -1,5 +1,5 @@
 ---
-title: testando
+title: Testando
 author: Henrique Cesar da Costa
 date: '2020-10-20'
 slug: r-ou-python
